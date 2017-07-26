@@ -55,4 +55,5 @@ func GetMapValuesSortedByKey(a map[int]string) []string {
 
 func main() {
 	fmt.Println("все гуд")
+	fmt.Println("все гуд еще раз")
 }
